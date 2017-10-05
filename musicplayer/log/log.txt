@@ -1,0 +1,218 @@
+Mon Oct 02 21:42:29 2017
+User Open Alexzms Music Player
+Mon Oct 02 21:42:33 2017
+User: Set Music Path to .\
+Mon Oct 02 21:43:54 2017
+User Open Alexzms Music Player
+Mon Oct 02 21:43:57 2017
+User: Set Music Path to .\
+Mon Oct 02 21:46:18 2017
+User Open Alexzms Music Player
+Mon Oct 02 21:46:20 2017
+User: Set Music Path to .\
+Mon Oct 02 21:51:42 2017
+User Open Alexzms Music Player
+Mon Oct 02 21:51:47 2017
+User Open Alexzms Music Player
+Mon Oct 02 21:51:49 2017
+User: Set Music Path to .\
+Mon Oct 02 21:52:11 2017
+User: start.wav PlaySound
+Mon Oct 02 21:53:41 2017
+User Open Alexzms Music Player
+Mon Oct 02 21:53:43 2017
+User: Set Music Path to .\
+Mon Oct 02 21:54:36 2017
+User Open Alexzms Music Player
+Mon Oct 02 21:54:38 2017
+User: Set Music Path to .\
+Mon Oct 02 21:55:18 2017
+User Open Alexzms Music Player
+Mon Oct 02 21:55:20 2017
+User: Set Music Path to .\
+Mon Oct 02 21:56:22 2017
+User Open Alexzms Music Player
+Mon Oct 02 21:56:24 2017
+User: Set Music Path to .\
+Mon Oct 02 21:58:54 2017
+User Open Alexzms Music Player
+Mon Oct 02 21:59:17 2017
+User Open Alexzms Music Player
+Mon Oct 02 21:59:19 2017
+User: Set Music Path to .\
+Mon Oct 02 22:01:29 2017
+User Open Alexzms Music Player
+Mon Oct 02 22:01:33 2017
+User: Set Music Path to .\
+Mon Oct 02 22:06:05 2017
+User Open Alexzms Music Player
+Mon Oct 02 22:06:08 2017
+User: Set Music Path to .\
+Mon Oct 02 22:06:14 2017
+User Open Alexzms Music Player
+Mon Oct 02 22:06:17 2017
+User: Set Music Path to .\
+Tue Oct 03 11:59:55 2017
+User Open Alexzms Music Player
+Tue Oct 03 11:59:58 2017
+User: Set Music Path to .\
+Tue Oct 03 12:03:40 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:03:42 2017
+User: Set Music Path to .\
+Tue Oct 03 12:06:44 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:07:27 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:07:29 2017
+User: Set Music Path to .\
+Tue Oct 03 12:07:33 2017
+User: start.wav PlaySound
+Tue Oct 03 12:07:38 2017
+User: Set Music Path to .\
+Tue Oct 03 12:08:22 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:08:22 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:08:32 2017
+User: Set Music Path to .\
+Tue Oct 03 12:09:43 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:09:45 2017
+User: Set Music Path to .\
+Tue Oct 03 12:10:23 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:10:27 2017
+User: Set Music Path to .\
+Tue Oct 03 12:12:47 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:12:59 2017
+User: Set Music Path to .\
+Tue Oct 03 12:14:02 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:14:04 2017
+User: Set Music Path to .\
+Tue Oct 03 12:14:18 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:14:20 2017
+User: Set Music Path to .\
+Tue Oct 03 12:17:19 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:17:22 2017
+User: Set Music Path to .\
+Tue Oct 03 12:20:53 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:20:58 2017
+User: Set Music Path to J:\Music\
+Tue Oct 03 12:21:05 2017
+User: Set Music Path to J:\Music\
+Tue Oct 03 12:21:29 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:21:30 2017
+User: LoadLog
+Tue Oct 03 12:22:11 2017
+User: Set Music Path to J:\Music\
+Tue Oct 03 12:22:46 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:23:04 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:23:08 2017
+User: Set Music Path to .\
+Tue Oct 03 12:24:02 2017
+User: start.wav PlaySound
+Tue Oct 03 12:24:09 2017
+User: Set Music Path to J:\Music\
+Tue Oct 03 12:25:17 2017
+User Open Alexzms Music Player
+Tue Oct 03 12:25:20 2017
+User: Set Music Path to J
+Tue Oct 03 12:25:26 2017
+User: Set Music Path to J:\Music\
+Tue Oct 03 12:25:32 2017
+User: Azis - Hop.mp3 PlaySound
+Tue Oct 03 12:25:42 2017
+User: Ü‡¹ÈºÆË¾ - Çà¿Õ ~.mp3 PlaySound
+Tue Oct 03 12:25:54 2017
+User: Hans Zimmer - Dream Is Collapsing.mp3 PlaySound
+Tue Oct 03 12:26:00 2017
+User: Set Music Path to .\
+Tue Oct 03 12:42:54 2017
+User Open Alexzms Music Player
+Tue Oct 03 13:01:17 2017
+User Open Alexzms Music Player
+Tue Oct 03 13:01:23 2017
+User: Set Music Path to J:\Music\
+Tue Oct 03 13:01:40 2017
+User: Childs - Ian P.MP3 PlaySound
+Tue Oct 03 13:01:53 2017
+User: C418 - Droopy likes your face.mp3 PlaySound
+Tue Oct 03 13:02:00 2017
+User: TheFatRat - Unity.mp3 PlaySound
+Tue Oct 03 13:05:05 2017
+User Open Alexzms Music Player
+Tue Oct 03 13:05:07 2017
+User: Set Music Path to .\
+Tue Oct 03 13:06:48 2017
+User Open Alexzms Music Player
+Tue Oct 03 13:06:53 2017
+User: Set Music Path to J:\Music\
+Tue Oct 03 13:06:56 2017
+User: Skylar Grey,Eminem,Dr. Dre - I Need a Doctor.mp3 PlaySound
+Tue Oct 03 13:07:05 2017
+User: Sam Tsui,Kurt Hugo Schneider - Something Just Like This.mp3 PlaySound
+Tue Oct 03 13:07:13 2017
+User: Ludovico Einaudi - Nuvole Bianche.mp3 PlaySound
+Tue Oct 03 13:07:21 2017
+User: Rihanna,Eminem - Love The Way You Lie (Part II).mp3 PlaySound
+Tue Oct 03 13:16:09 2017
+User Open Alexzms Music Player
+Tue Oct 03 13:16:15 2017
+User: Set Music Path to J:\Music\
+Tue Oct 03 13:17:17 2017
+User Open Alexzms Music Player
+Tue Oct 03 13:17:28 2017
+User: Set Music Path to J:\Music\
+Tue Oct 03 13:35:10 2017
+User Open Alexzms Music Player
+Tue Oct 03 13:35:13 2017
+User: Set Music Path to .\
+Tue Oct 03 13:36:15 2017
+User Open Alexzms Music Player
+Tue Oct 03 13:38:54 2017
+User Open Alexzms Music Player
+Tue Oct 03 13:39:01 2017
+User: Set Music Path to J:\Music\
+Tue Oct 03 13:39:31 2017
+User: Linkin Park - In The End.mp3 PlaySound
+Tue Oct 03 13:40:41 2017
+User Open Alexzms Music Player
+Tue Oct 03 13:40:43 2017
+User Open Alexzms Music Player
+Tue Oct 03 13:40:49 2017
+User: Set Music Path to J:\Music\
+Tue Oct 03 13:42:11 2017
+User Open Alexzms Music Player
+Tue Oct 03 13:42:18 2017
+User: Set Music Path to J:\Music\
+Tue Oct 03 13:46:38 2017
+User Open Alexzms Music Player
+Tue Oct 03 13:46:40 2017
+User: Set Music Path to .\
+Tue Oct 03 13:46:53 2017
+User Open Alexzms Music Player
+Tue Oct 03 13:46:59 2017
+User: Set Music Path to .\
+Wed Oct 04 12:41:57 2017
+User Open Alexzms Music Player
+Wed Oct 04 16:38:24 2017
+User Open Alexzms Music Player
+Wed Oct 04 16:38:27 2017
+User: Set Music Path to .\
+Thu Oct 05 13:15:15 2017
+User Open Alexzms Music Player
+Thu Oct 05 13:15:28 2017
+User: Set Music Path to .\
+Thu Oct 05 13:16:49 2017
+User Open Alexzms Music Player
+Thu Oct 05 13:16:52 2017
+User: Set Music Path to .\

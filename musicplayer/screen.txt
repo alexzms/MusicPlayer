@@ -1,0 +1,17 @@
+  Alexzms Music Player!	ver_beta0.1
+Tips: Do Not Use [a],[q],[e] plz
+  >> MusicPath: 
+  >> Pause[p]
+  >> Resume[r]
+  >> Stop[s]
+  >> Repeat[o]
+  >> PressToRefresh[h]
+  >> LoadAllMusicInMusicPath[a](Not Finished)
+  >> VolumeUp[q](Not Finished)
+  >> VolumeDown[e](Not Finished)
+  
+  >> Repeat: 
+  >> Volume: 
+  >> B A R : --------------------------------------------------
+  >> B A R : 
+  >> B A R : --------------------------------------------------

@@ -1,0 +1,4 @@
+Alexzms Music Player!	
+ver_beta0.1
+
+MusicPath:

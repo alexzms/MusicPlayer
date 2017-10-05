@@ -1,0 +1,3 @@
+Alexzms Music Player!	
+ver_beta0.1
+SetMusicPath(Please Add "\" At the end of the path): 

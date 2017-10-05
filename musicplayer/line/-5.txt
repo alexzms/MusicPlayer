@@ -1,0 +1,6 @@
+Alexzms Music Player!	
+ver_beta0.1
+Move Up:[w] Move Down:[s] Enter:[d]
+
+PlayMusic: [SetMusicPath] + [PlayMusicInPath]
+
